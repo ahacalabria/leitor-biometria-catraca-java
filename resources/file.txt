@@ -1,0 +1,12 @@
+/XFDL/page/label/value#1.0
+/XFDL/page/field/label#1.5
+/XFDL/page/field/help#1.5
+/XFDL/page/popup/label#1.5
+/XFDL/page/field/value#1.0
+/XFDL/page/button/value#1.0
+/XFDL/page/cell[@sid=../popup/value]/value#1.0
+/XFDL/page/cell[not(@sid=../popup/value)]/value#0.5
+/XFDL/page/check[value='on']/label#1.0
+/XFDL/page/check[value='off']/label#0.5
+/XFDL/page/radio[value='on']/label#1.0
+/XFDL/page/radio[value='off']/label#0.5
